@@ -8,6 +8,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="myScreen" parent="AppTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
     <!--android:textColor="@drawable/rb_textcolor_selector"-->
     <!--android:textSize="12sp"-->
     <!--android:layout_weight="1"-->
