@@ -8,4 +8,22 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!--android:textColor="@drawable/rb_textcolor_selector"-->
+    <!--android:textSize="12sp"-->
+    <!--android:layout_weight="1"-->
+    <!--android:button="@null"-->
+    <!--android:layout_width="0dp"-->
+    <!--android:layout_height="wrap_content"-->
+    <style name="MyStyle">
+        <!-- Customize your theme here. -->
+        <item name="android:gravity">center</item>
+        <item name="android:drawablePadding">5dp</item>
+        <item name="android:textColor">@drawable/rb_textcolor_selector</item>
+        <item name="android:textSize">12dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
 </resources>
